@@ -2,7 +2,15 @@
 
 **Swap faces of two pictures**
 
+Pic-1 :-
 
+![pic](https://github.com/Kaushal-Dhungel/Face_swapping/blob/master/scarlette_1.jpg)
+
+
+Pic-2 :-
+![pic](https://github.com/Kaushal-Dhungel/Face_swapping/blob/master/c_w_2.jpg)
+
+Result:-
 ![pic](https://github.com/Kaushal-Dhungel/Face_swapping/blob/master/face_swap.png)
 
 To run this project:
