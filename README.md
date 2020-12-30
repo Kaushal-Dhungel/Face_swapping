@@ -22,5 +22,6 @@ or you can specify the directory here:
 ```python
 predictor = dlib.shape_predictor("../shape_predictor_68_face_landmarks.dat") # specify the file here.
 ```
-
+This project is made with the help of this awesome tutorial series from Pysource.
+[Check the tutorial](https://www.youtube.com/watch?v=__JQgb4NJ5o)
 >Enjoy...... 
